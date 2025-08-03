@@ -68,8 +68,4 @@ function reiniciarJuego() {
     document.querySelector('#reiniciar').setAttribute('disabled', 'true');
 }
 
-function reiniciarJuego() {
-    
-}
-
 condicionesIniciales()
